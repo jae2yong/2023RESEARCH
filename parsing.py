@@ -41,5 +41,7 @@ with open('example.json') as json_file:
             f.write('\n')
 
         f.close()##
-
+        ##f.close()
         print(len(json_data["frames"][i]['annotations']))
+#메모로 추가######
+#wq
